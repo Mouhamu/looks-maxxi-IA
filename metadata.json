@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Looks Maxxi BP",
+  "description": "An AI-powered app, similar to Umax, that analyzes your facial features and provides personalized recommendations for looks-maximization. Get a detailed breakdown of your facial aesthetics, a beauty score, and actionable advice on skincare, grooming, and style to enhance your appearance. Track your progress over time with photo uploads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
